@@ -7,4 +7,4 @@ a C++ program that solves a Sudoku board
 - implementation of default parameters, recursion
 - printing and writing to files
 
-NB. simply run the makefile will able to produce an executable file and hence run the program
+NB. simply run the makefile will able to produce an executable file that runs the program
