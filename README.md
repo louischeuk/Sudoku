@@ -2,7 +2,6 @@
 a C++ program that solves a Sudoku board
 
 - A piece of college coursework.
-<br>
 - Design an algorithm to solve a given Sudoku board
 <br>
 - use of 2D array
