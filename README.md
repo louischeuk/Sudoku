@@ -1,7 +1,6 @@
 # Sudoku
 a C++ program that solves a Sudoku board
 
-- college coursework
 - writing an algorithm that solves a given Sudoku board
 - manipulation of 2-D array
 - implementation of default parameters, recursion
